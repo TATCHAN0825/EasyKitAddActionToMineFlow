@@ -1,0 +1,10 @@
+---
+name: EasyKitAddActionToMineFlow
+version: 1.0.1
+main: tatchan\EasyKitAddActionToMineFlow\Main
+api: 4.0.0
+src-namespace-prefix: tatchan\EasyKitAddActionToMineFlow
+depend:
+  - Mineflow
+  - EasyKits
+...
